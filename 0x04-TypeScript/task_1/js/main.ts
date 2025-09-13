@@ -15,5 +15,4 @@ fullTimeEmployee: false,
 location: 'London',
 contract: false,
 };
-
 console.log(teacher3);
